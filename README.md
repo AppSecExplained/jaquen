@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 📫 How to reach me https://www.twitch.tv/offsecprep
+- 📫 How to reach me https://www.twitch.tv/AppSecExplained
 
 <!---
 jaquen/jaquen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
